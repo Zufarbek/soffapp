@@ -1,1 +1,11 @@
 Salom Dunyo!
+
+
+1. Holatni bilish 
+    git status
+
+2. Filni qo'shish
+    git add .
+
+3. 
+
